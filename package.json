@@ -1,0 +1,22 @@
+{
+  "name": "shelter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "author": "Natalia Pantiukhova",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "normalize.css": "^8.0.1",
+    "sass": "^1.27.0",
+    "scss": "^0.2.4"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-watch": "^5.0.1"
+  },
+  "description": ""
+}
